@@ -1,0 +1,2 @@
+No.	  Date	   Time	 VID/PID/ManuStr/ProdStr/SN	 vfVIDPID	 vfManuStr	 vfProdStr	 vfDiskName	 vfVol.	 vfHDDFWRev.	 Usb3.0Check	 F/W	 EEPROM	 FW Check	 ReLink	 Part.	 Format	 R/W	 Speed	 SW Copy	 FolderCompare	 Result
+000025	2025/08/03	11:29:48	152D / 0583 / ZCJ / USSD / 000020250801 	----	 ----	 ----	 ----	 ----	 ----	----	Pass	Pass	----	----	----	----	----	0.0/0.0	----	----	Pass

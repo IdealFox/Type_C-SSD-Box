@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <locale lang="CHS"/>
+  <options hw="ch341a" clear="0" skipff="1" unprot="0" verify="1" moredev="0" chipname="W25X20CL" SPIExpert="1" spi_speed="1_5Mhz" blankcheck="0" LoadLastDev="1" SaveFhistory="1"/>
+  <Windows DPI="144" Top="303" Left="1233" LogH="134" Width="1327" Height="731"/>
+  <ChipHistory list="W25X20CL [3.3V],P25D40H [3.3V],W25Q128FW [1.8V]"/>
+  <FileHistory file0="E:\个人工程\项目5_Type_C硬盘盒\JMS583主控_Type_C公制接口硬盘盒\复刻文件\固件烧录\烧录器烧录\JMS583_Hardware_Burning.bin" file1="E:\个人工程\项目5_Type_C硬盘盒\新作_第二版\固件\JMS583_1228.bin" file2="E:\个人工程\项目5_Type_C硬盘盒\新作_第二版\固件\JMS583.bin" file3="E:\个人工程\项目5_Type_C硬盘盒\新作_第二版\固件\JMS583_02_01_02.bin" file4="E:\个人工程\项目5_Type_C硬盘盒\新作_第二版\固件\JMS583_1213.bin" file5="D:\下载\JMS583.bin" file6="D:\下载\JMS583_174.03.00.01.bin" file7="D:\下载\JMS583 (3).bin" file8="D:\下载\JMS583 (1).bin" file9="D:\下载\JMS583 (2).bin"/>
+</settings>

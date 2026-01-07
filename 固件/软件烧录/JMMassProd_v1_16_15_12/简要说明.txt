@@ -1,0 +1,6 @@
+打开”JMMassProd_v1_16_15_12“软件
+
+1，点击“Refresh”
+2，点击“RD Version”，输入“jmicron”密码
+3，点击“START”
+4，等待完成，进度条100%并显示PASS即成功，第一次烧录会久一点，耐心等待

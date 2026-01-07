@@ -1,0 +1,6 @@
+No.	  Date	   Time	 VID/PID/ManuStr/ProdStr/SN	 vfVIDPID	 vfManuStr	 vfProdStr	 vfDiskName	 vfVol.	 vfHDDFWRev.	 Usb3.0Check	 F/W	 EEPROM	 FW Check	 ReLink	 Part.	 Format	 R/W	 Speed	 SW Copy	 FolderCompare	 Result
+000011	2025/05/13	14:45:10	152D / 0583 / JMicron / NVMe 10Gbps / 000020250513 	----	 ----	 ----	 ----	 ----	 ----	----	Pass	Pass	----	----	----	----	----	0.0/0.0	----	----	Pass
+000012	2025/05/13	14:46:44	152D / 0583 / JMS583 / USSD / 000020250513 	----	 ----	 ----	 ----	 ----	 ----	----	Pass	Pass	----	----	----	----	----	0.0/0.0	----	----	Pass
+000013	2025/05/13	14:48:19	152D / 0583 / JMS583 / USSD / 000020250513 	----	 ----	 ----	 ----	 ----	 ----	----	Pass	Pass	----	----	----	----	----	0.0/0.0	----	----	Pass
+000014	2025/05/13	14:56:21	152D / 0583 / ZCJ / USSD / 000020250513 	----	 ----	 ----	 ----	 ----	 ----	----	Pass	Pass	----	----	----	----	----	0.0/0.0	----	----	Pass
+000015	2025/05/13	14:57:59	152D / 0583 / ZCJ / USSD / 000020250513 	----	 ----	 ----	 ----	 ----	 ----	----	Pass	Pass	----	----	----	----	----	0.0/0.0	----	----	Pass
